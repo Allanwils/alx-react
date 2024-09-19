@@ -1,0 +1,16 @@
+#count {
+    font-weight: bold;  /* Makes the text bold */
+    margin-left: 10px;  /* Adds space between the button and the counter text */
+    display: inline-block; /* Ensures the counter stays on the same line as the button */
+  }
+
+  #logo {
+    width: 200px;
+    height: 200px;
+    background-image: url('../assets/holberton-logo.jpg');
+    background-size: 200px 200px; /* Ensures the image fits exactly 200px by 200px */
+    background-repeat: no-repeat; /* Prevents the background from repeating */
+    background-position: center; /* Centers the image within the div */
+  }
+  
+  
