@@ -1,0 +1,17 @@
+/* Add styles for the header */
+header {
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #logo {
+    width: 50px;
+    height: auto;
+  }
+  
+  h1 {
+    font-size: 2em;
+    color: #333;
+  }
+  

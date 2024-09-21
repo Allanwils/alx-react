@@ -1,0 +1,23 @@
+/* Add styles for the body */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #008cba;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005f5f;
+  }
+  
+  #count {
+    font-weight: bold;  /* Makes the text bold */
+    margin-left: 10px;  /* Adds space between the button and the counter text */
+    display: inline-block; /* Ensures the counter stays on the same line as the button */
+  }  
