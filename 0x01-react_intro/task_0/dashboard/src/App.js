@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <>
+    <>clear
       <div className='App-header'>
         {/*<img src={favicon} alt='favicon' className='App-favicon' /> */}
         <img src={logo} alt='logo' className='App-logo' /> 
